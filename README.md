@@ -52,14 +52,15 @@ npm start
 
 REACT_APP_API_URL=https://adversarial-defense-backend.onrender.com
 
-📌 API 端點（Endpoints）
+## 📌 API 端點（Endpoints）
 
-Method	Endpoint	Description
-GET	/	API 健康檢查
-POST	/upload/	上傳並處理圖片
-GET	/generate_adversarial_example?epsilon=0.3	生成對抗樣本
-POST	/defend/	進行防禦
-POST	/classify/	對圖片進行分類
+| 方法 | 端點 | 描述 |
+|------|------|------|
+| `GET`  | `/` | API 健康檢查 |
+| `POST` | `/upload/` | 上傳並處理圖片 |
+| `GET`  | `/generate_adversarial_example?epsilon=0.3` | 生成對抗樣本 |
+| `POST` | `/defend/` | 進行防禦 |
+| `POST` | `/classify/` | 對圖片進行分類 |
 
 🏗️ 部署（Deployment）
 
