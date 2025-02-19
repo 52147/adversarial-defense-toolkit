@@ -2,7 +2,7 @@
 # 🛡️ Adversarial Defense Toolkit
 
 🔗 **Demo:**
-- 🎨 [Frontend (UI)](https://adversarial-defense-frontend-oaj0xjiby-52147s-projects.vercel.app/)
+- 🎨 [Frontend (UI)](https://adversarial-defense-frontend.vercel.app/)
 - 🚀 [Backend (API)](https://adversarial-defense-backend.onrender.com/)
 
 🔗 **GitHub Repositories:**
