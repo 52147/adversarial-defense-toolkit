@@ -17,6 +17,7 @@
 - ✅ Defense against adversarial examples using different methods
 - ✅ Evaluation of defense effectiveness through classification comparison
 - ✅ A user-friendly UI for easy interaction
+![Uploading ScreenRecording2025-02-19at7.52.29PM-ezgif.com-video-to-gif-converter.gif…]()
 
 This toolkit supports the **MNIST dataset** and provides the following **defense methods**:
 - **Gaussian Blur**
