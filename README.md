@@ -41,7 +41,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 Then, visit http://127.0.0.1:8000/docs to check the API documentation.
 
-2️⃣ Frontend (React)
+### 2️⃣ Frontend (React)
 
 Run Locally
 
@@ -54,7 +54,7 @@ Set up the .env file with the API URL:
 
 REACT_APP_API_URL=https://adversarial-defense-backend.onrender.com
 
-📌 API Endpoints
+#### 📌 API Endpoints
 
 | Method | Endpoint | Description |
 |--------|---------|-------------|
@@ -64,7 +64,7 @@ REACT_APP_API_URL=https://adversarial-defense-backend.onrender.com
 | `POST` | `/defend/` | Apply defense methods |
 | `POST` | `/classify/` | Classify an image |
 
-🏗️ Deployment
+#### 🏗️ Deployment
 
 Backend (Render)
 
@@ -78,7 +78,7 @@ Deployed on Vercel:
 
 https://adversarial-defense-frontend-oaj0xjiby-52147s-projects.vercel.app/
 
-📜 License
+#### 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -122,9 +122,9 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 然後訪問 http://127.0.0.1:8000/docs 查看 API 文件。
 
-2️⃣ 前端（Frontend - React）
+### 2️⃣ 前端（Frontend - React）
 
-本地運行
+#### **本地運行**
 
 git clone https://github.com/52147/adversarial-defense-frontend.git
 cd adversarial-defense-frontend
@@ -159,7 +159,7 @@ https://adversarial-defense-backend.onrender.com/
 
 https://adversarial-defense-frontend-oaj0xjiby-52147s-projects.vercel.app/
 
-📜 授權（License）
+## 📜 授權（License）
 
 本項目基於 MIT License 許可，詳見 LICENSE 文件。
 
