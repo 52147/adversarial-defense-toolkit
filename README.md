@@ -19,6 +19,7 @@
 - ✅ A user-friendly UI for easy interaction
 
 This toolkit supports the **MNIST dataset** and provides the following **defense methods**:
+- **JPEG compression**
 - **Gaussian Blur**
 - **Bilateral Filter**
 - **Median Filter**
@@ -104,6 +105,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ✅ 提供簡單易用的 UI 介面
 
 本工具包支援 **MNIST 數據集**，並提供以下 **防禦方法**：
+- **JPEG compression(JPEG 壓縮防禦)**
 - **Gaussian Blur（高斯模糊）**
 - **Bilateral Filter（雙邊濾波）**
 - **Median Filter（中值濾波）**
