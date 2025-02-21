@@ -82,6 +82,7 @@ https://adversarial-defense-frontend-oaj0xjiby-52147s-projects.vercel.app/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+⭐ If this repo helps you, give it a Star to support further development!  
 
 # 🛡️ Adversarial Defense Toolkit
 
